@@ -1,4 +1,3 @@
-# Author: ABHINAV PANDIT
 import numpy as np
 from .decision_tree import DecisionTree
 
