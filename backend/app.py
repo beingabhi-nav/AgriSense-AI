@@ -16,6 +16,14 @@ def create_app():
     with app.app_context():
         # Creates tables if they don't exist yet
         db.create_all()
+        
+
+    from routes.farm_routes import farm_bp
+    from routes.ml_routes import ml_bp
+    
+    app.register_blueprint(farm_bp, url_prefix='/api/farm')
+    app.register_blueprint(ml_bp, url_prefix='/api/ml')
+
 
     @app.route('/', methods=['GET'])
     def home():
