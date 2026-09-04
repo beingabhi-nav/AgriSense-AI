@@ -88,4 +88,8 @@ npm install
 npm run dev
 ```
 
-Author: ABHINAV PANDIT
+Minor Project, Team: MNP036
+Authors: 
+ABHINAV PANDIT
+MANASVI KUMAR
+SANJEEV KUMAR JHA
