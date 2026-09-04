@@ -87,3 +87,5 @@ cd frontend
 npm install
 npm run dev
 ```
+
+Author: ABHINAV PANDIT
