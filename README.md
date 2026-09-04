@@ -89,7 +89,7 @@ npm run dev
 ```
 
 Minor Project, Team: MNP036,
-Authors: 
+Author: 
 ABHINAV PANDIT,
 MANASVI KUMAR,
 SANJEEV KUMAR JHA
