@@ -88,8 +88,8 @@ npm install
 npm run dev
 ```
 
-Minor Project, Team: MNP036
+Minor Project, Team: MNP036,
 Authors: 
-ABHINAV PANDIT
-MANASVI KUMAR
+ABHINAV PANDIT,
+MANASVI KUMAR,
 SANJEEV KUMAR JHA
